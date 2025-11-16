@@ -182,8 +182,8 @@ Since p-value = 0.6086225971457468 >= 0.05, we FAIL to reject the Null Hypothesi
     <img src="images/chart 7.png" alt="Insights Visualization 3" width="400" style="border-radius: 20px; margin: 10px;">
     <img src="images/chart 10.png" alt="Insights Visualization 4" width="400" style="border-radius: 20px; margin: 10px;">
     <img src="images/chart 12.png" alt="Insights Visualization 5" width="400" height="160" style="border-radius: 20px; margin: 10px;">
-    <img src="images/Models_comparision_df.png" alt="Insights Visualization 6" width="400" style="border-radius: 20px; margin: 10px;">
-    <img src="images/confusion_matric.png" alt="Insights Visualization 7" width="400" style="border-radius: 20px; margin: 10px;">
+    <!-- <img src="images/Models_comparision_df.png" alt="Insights Visualization 6" width="400" style="border-radius: 20px; margin: 10px;"> -->
+    <!-- <img src="images/confusion_matric.png" alt="Insights Visualization 7" width="400" style="border-radius: 20px; margin: 10px;"> -->
 </p>
 <br><br>
 
